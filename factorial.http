@@ -1,0 +1,4 @@
+### GET request with a header
+POST http://127.0.0.1:9069
+Accept: application/json
+
